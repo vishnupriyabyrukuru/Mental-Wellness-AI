@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 # ---------------- GEMINI ----------------
-genai.configure(api_key="write your own gemini api key")
+genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 # ---------------- CREATE HISTORY FILE ----------------
