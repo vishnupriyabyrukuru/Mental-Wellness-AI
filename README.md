@@ -1,3 +1,12 @@
+
+# AI Mental Wellness Support Assistant
+
+🌐 **Live Demo:** https://mental-wellness-ai.streamlit.app/
+
+💻 **GitHub Repository:** https://github.com/vishnupriyabyrukuru/Mental-Wellness-AI
+
+
+
 # 🧠 AI Mental Wellness Support Assistant
 
 An AI-powered mental wellness application that analyzes a user's feelings, detects their mood, and provides supportive responses using Google's Gemini AI.
